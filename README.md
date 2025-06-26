@@ -1,4 +1,4 @@
-# Dual Clock FIFO in Verilog
+# Dual Clock FIFO 
 
 This project implements a **Dual Clock FIFO (First-In First-Out)** buffer in Verilog that allows **asynchronous write and read operations** using separate clocks. It's a commonly used structure in digital systems that bridge different clock domains.
 
